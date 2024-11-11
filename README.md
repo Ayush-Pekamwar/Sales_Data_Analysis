@@ -13,7 +13,7 @@
   The end result was an automated dashboard that delivers quick, accurate, and up-to-date sales metrics.
   <ul>
     <li> db_dump.sql contains whole database used in this project </li>
-    <li> mainBI.bi contains Power BI Report</li>
+    <li> mainBI.pbix contains Power BI Report</li>
   </ul>
  
   

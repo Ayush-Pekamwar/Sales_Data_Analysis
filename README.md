@@ -43,11 +43,19 @@
   <li><strong>SQL:</strong> For querying, cleaning, and transforming data.</li>
 </ul>
 
-<h2>Impact and End Result</h2>
+<h2>Impact</h2>
 <p>
   This project enhanced the sales team's ability to make informed decisions by providing a clear and efficient view of essential sales data. 
   The automated dashboard minimizes manual data analysis efforts, saving valuable time and ensuring data-driven strategies.
 </p>
+
+  <!--   ![Sales Dashboard Preview](Dashboard_Image_Preview.png) -->
+  <h2>Dashboard Preview</h2>
+  <img src="Dashboard_Image_Preview.png" alt="Sales Dashboard Preview image" width="1000">
+
+  <h2>Data Model</h2>
+  <img src="Data_Model_Preview.png" alt = "Data Model Preview Image"  width = "1000">
+  
 
   
 

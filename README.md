@@ -11,6 +11,12 @@
   The project involved working with a comprehensive sales dataset provided as a MySQL database dump. 
   Using a combination of SQL and Power BI, I performed data cleaning, transformation, and visualization to unlock hidden sales insights. 
   The end result was an automated dashboard that delivers quick, accurate, and up-to-date sales metrics.
+  <ul>
+    <li> db_dump.sql contains whole database used in this project </li>
+    <li> mainBI.bi contains Power BI Report</li>
+  </ul>
+ 
+  
 </p>
 
 <h2>Key Steps and Techniques</h2>
